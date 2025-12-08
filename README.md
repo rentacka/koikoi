@@ -10,7 +10,7 @@
 <br>
 <div style="display:flex; gap:10px;">
   <a href="https://freegame-mugen.jp/adventure/game_12634.html">
-    <img src="/img/野獣先輩を探せ！.jpg" width="30%">
+    <img src="/img/野獣先輩を探せ！.png" width="30%">
   </a>
   <a href="https://freegame-mugen.jp/adventure/game_12634.html">
     <img src="/img/野獣先輩を探せ！ゲーム内容.png" width="30%">
