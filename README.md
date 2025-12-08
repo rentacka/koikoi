@@ -19,7 +19,7 @@
     <img src="/img/野獣ランキング.png" width="30%">
   </a>
 </div>
-<p><strong>野獣先輩を探せ！</strong><br>メガヒット作。ランキングにはのらなかった(´；ω；`)</p>
+<p><strong>野獣先輩を探せ！</strong><br>メガヒット作。ランキングにはのらなかった(´；ω；`) 圧倒的人気の糞ゲー</p>
 
 <br>
 <div style="display:flex; gap:10px;">
