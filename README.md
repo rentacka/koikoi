@@ -9,15 +9,25 @@
 
 <br>
 <div style="display:flex; gap:10px;">
-  <a href="https://unityroom.com/games/moneykoikoi">
+  <a href="https://freegame-mugen.jp/adventure/game_12634.html">
+    <img src="/img/野獣先輩を探せ！.jpg" width="30%">
+  </a>
+  <a href="https://freegame-mugen.jp/adventure/game_12634.html">
+    <img src="/img/野獣先輩を探せ！ゲーム内容.png" width="30%">
+  </a>
+    <a href="https://freegame-mugen.jp/adventure/game_12634.html">
+    <img src="/img/野獣ランキング.png" width="30%">
+  </a>
+</div>
+<p><strong>野獣先輩を探せ！</strong><br>メガヒット作。ランキングにはのらなかった(´；ω；`)</p>
+
+<br>
+<div style="display:flex; gap:10px;">
+  <a href="https://freegame-mugen.jp/roleplaying/game_14287.html">
     <img src="/img/チーズは氷河期を救う.jpg" width="30%">
   </a>
-  <a href="https://unityroom.com/games/moneykoikoi">
+  <a href="https://freegame-mugen.jp/roleplaying/game_14287.html">
     <img src="/img/きのこ雲.jpg" width="30%">
   </a>
 </div>
 <p><strong>チーズは氷河期を救う</strong><br>日本は景気がいいんじゃ……</p>
-
-
-
-
