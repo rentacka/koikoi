@@ -1,5 +1,5 @@
 X
-<a href="https://x.com/moneykoiko">
+<a href="https://x.com/moneykoikoi">
   <img src="/img/Best3_mini.png" alt="X" title="マネーコイコイ" width="10%">
 </a>
 👉なろう代表作　短編　ホラー、文芸　３６位、統合７７位
