@@ -2,7 +2,7 @@ X
 <a href="https://x.com/moneykoikoi">
   <img src="/img/Best3_mini.png" alt="X" title="マネーコイコイ" width="10%">
 </a>
-👉なろう代表作　短編　ホラー、文芸　３６位、統合７７位
+👉なろう代表作　短編　ホラー、文芸　３６位、統合７７位「恐怖！　異世界転生トラックの突撃」
 <a href="https://ncode.syosetu.com/n9240gx/">
   <img src="/img/宇宙ネコ.png" alt="X" title="恐怖！　異世界転生トラックの突撃" width="10%">
 </a>
