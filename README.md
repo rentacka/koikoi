@@ -2,9 +2,9 @@ X
 <a href="https://x.com/moneykoiko">
   <img src="/img/Best3_mini.png" alt="X" title="マネーコイコイ" width="10%">
 </a>
-👉ツベショート
-<a href="https://www.youtube.com/@moneykoikoi/shorts">
-  <img src="/img/宇宙ネコ.png" alt="X" title="マネーコイコイ" width="10%">
+👉なろう代表作　短編　ホラー、文芸　３６位、統合７７位
+<a href="https://ncode.syosetu.com/n9240gx/">
+  <img src="/img/宇宙ネコ.png" alt="X" title="恐怖！　異世界転生トラックの突撃" width="10%">
 </a>
 
 <h2>🎮 ゲーム一覧</h2>
