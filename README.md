@@ -8,6 +8,12 @@ X
   <img src="/img/宇宙ネコ.png" alt="X" title="恐怖！　異世界転生トラックの突撃" width="10%">
 </a>
 
+<h2>📺ソフト</h2>
+<a href="[https://unityroom.com/games/moneykoikoi](https://github.com/rentacka/koikoi/blob/main/img/%E8%B6%85%E7%94%BB%E5%83%8F%E9%AD%82%E3%82%B3%E3%83%B3%E3%83%90%E3%82%A4%E3%83%B3Web.zip)">
+  <img src="https://github.com/rentacka/koikoi/blob/main/img/%E8%B6%85%E7%94%BB%E5%83%8F%E9%AD%82%E3%82%B3%E3%83%B3%E3%83%90%E3%82%A4%E3%83%B3prev.png" width="30%">
+</a>
+<p><strong>超画像魂コンバイン</strong><br>ツクールでタイル編集がむっちゃ便利なやつｂ</p>
+
 <h2>🎮 ゲーム一覧</h2>
 <br>
 <a href="https://unityroom.com/games/moneykoikoi">
